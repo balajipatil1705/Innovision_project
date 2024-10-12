@@ -298,31 +298,32 @@ export const socials = [
   {
     id: "0",
     title: "Discord",
-    iconUrl: discordBlack,
-    url: "#",
+    iconUrl: discordBlack, // Path to the Discord icon
+    url: "https://discord.com/invite/yourDiscordInviteLink", // Replace with your actual Discord invite link
   },
   {
     id: "1",
     title: "Twitter",
-    iconUrl: twitter,
-    url: "#",
+    iconUrl: twitter, // Path to the Twitter icon
+    url: "https://twitter.com/yourTwitterHandle", // Replace with your actual Twitter handle link
   },
   {
     id: "2",
     title: "Instagram",
-    iconUrl: instagram,
-    url: "#",
+    iconUrl: instagram, // Path to the Instagram icon
+    url: "https://instagram.com/yourInstagramHandle", // Replace with your actual Instagram handle link
   },
   {
     id: "3",
     title: "Telegram",
-    iconUrl: telegram,
-    url: "#",
+    iconUrl: telegram, // Path to the Telegram icon
+    url: "https://t.me/yourTelegramHandle", // Replace with your actual Telegram handle link
   },
   {
     id: "4",
     title: "Facebook",
-    iconUrl: facebook,
-    url: "#",
+    iconUrl: facebook, // Path to the Facebook icon
+    url: "https://facebook.com/yourFacebookProfile", // Replace with your actual Facebook profile link
   },
 ];
+
